@@ -14,7 +14,7 @@ git clone https://github.com/Nop3z/EzMd.git
 
 # Install Python library
 ```
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 # Usage
 ```

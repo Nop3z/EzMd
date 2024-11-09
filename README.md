@@ -12,7 +12,7 @@ git clone https://github.com/Nop3z/EzMd.git
 
 # 安装python库
 ```
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 # 使用方法
 ```
