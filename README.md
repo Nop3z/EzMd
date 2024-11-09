@@ -1,5 +1,5 @@
-<a herf="./README_EN.md">English</a> | <a herf="./README.md">中文</a>
-
+- EN [English](README_EN.md)
+- CN [中文](README.md)
 # EzMd
 这是一款自动使用md命令提取固件的python脚本
 # Tips
@@ -22,12 +22,12 @@ Usage:python md_ZH.py
 ```
 md 0 32 #查看内存中0-32地址的数据
 ```
-![alt text](image.png)
+![alt text](./image/image.png)
 ```
 python md_ZH.py #运行python脚本
 ```
-![alt text](image-2.png)
+![alt text](./image/image-2.png)
 ```
 拖入010Editor查看 提取的数据与md命令提取的数据一致
 ```
-![alt text](image-3.png)
+![alt text](./image/image-3.png)
