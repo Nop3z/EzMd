@@ -1,4 +1,4 @@
-<a herf="./README_EN.md">English</a> | <a herf="./README_ZH.md">中文</a>
+<a herf="./README_EN.md">English</a> | <a herf="./README.md">中文</a>
 
 # EzMd
 这是一款自动使用md命令提取固件的python脚本
