@@ -3,6 +3,16 @@
 # Tips
 请先将设备用`MobaXterm`或其他支持串口连接的软件连接到电脑上，并进入`uboot`模式
 再将串口调试工具`关闭!!!`否则会显示`端口占用!!!`
+# 克隆github项目
+```
+git clone https://github.com/Nop3z/EzMd.git
+```
+
+# 安装python库
+```
+python -r requirements.txt
+```
+# 使用方法
 ```
 Usage:python md.py
 ```
